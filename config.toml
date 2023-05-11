@@ -1,6 +1,6 @@
 baseURL       = "https://beemom-qag6o.ondigitalocean.app/"
 languageCode  = "es-mx"
-title         = "BeeMom"
+title         = "Bee Mom"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -8,23 +8,23 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
+    name    = "Inicio"
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
+    name    = "Nosotros"
     url     = "about"
     weight  = 2
-  [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
-    weight  = 3
+  # [[menu.nav]]
+  #   name    = "Portfolio"
+  #   url     = "portfolio"
+  #   weight  = 3
   [[menu.nav]]
     name    = "Blog"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Contacto"
     url     = "contact"
     weight  = 5
 
@@ -33,28 +33,28 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Bee Mom | Plataforma de asesoramiento en la maternidad."
+  author = "DiegoAGtz"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  fabform  = "https://fabform.io/f/I5zGF7w"
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
+    placeholder_first_name        = "Nombre(s)"
+    placeholder_last_name         = "Apellidos"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_project_type      = "¿Estas embarazada?"
+    placeholder_about_the_project = "Dinos que piensas"
+    send_message                  = "Enviar mensaje"
 
     [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
+      value = "Sí"
+      title  = "Sí"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
+      value = "No"
+      title  = "No"
   
   # Navbar Action Button
   [params.navAction]
@@ -82,11 +82,11 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    title               = "¿Necesitas ayuda?"
+    primary_button        = "Instagram"
+    primary_button_url    = "https://www.instagram.com/beemom2023"
+    secondary_button      = "Contáctanos"
+    secondary_button_url  = "contact"
 
   [params.footer]
     # Footer Contact Info
@@ -128,4 +128,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = "Brindamos:"
-        description = "Apoyo en tu proceso de<br>maternidad, consejos, entrevistas<br>y recomendaciones."
+        description = "Asesoría en tu proceso de<br>maternidad, consejos, entrevistas<br>y recomendaciones."
