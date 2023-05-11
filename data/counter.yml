@@ -1,0 +1,14 @@
+enable : true
+heading : "Cifras anuales en México"
+counter_item: 
+  - title: "Nacimientos"
+    number: "1.8M"
+
+  - title: "Abortos en adolescentes"
+    number: "21k"
+
+  - title: "Embarazos en adolescentes"
+    number: "359k"
+
+  - title: "Partos en adolescentes"
+    number: "340k"
