@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://beemom-qag6o.ondigitalocean.app/"
 languageCode  = "es-mx"
 title         = "BeeMom"
 theme         = "roxo-hugo"
