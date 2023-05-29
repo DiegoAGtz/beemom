@@ -1,36 +1,18 @@
 ---
-title: "The 10 Biggest Product Stories of 2019"
-date: 2019-12-24T12:58:17+06:00
-image: images/blog/blog-post-04.jpg
-feature_image: images/blog/blog-details-image.jpg
+title: "Idealizar la maternidad nos ha dañado demasiado…"
+date: 2023-04-28T12:58:17+06:00
+image: images/blog/images (1) (Custom).jpeg
+feature_image: images/blog/2375218707772 (Custom).jpg
 author: Alexender Schoitiz
 ---
-### Black Lines brand identity, by & Smith
+La experiencia alrededor de un nacimiento, desde el embarazo hasta la maternidad, se asocia generalmente a un ambiente de gran júbilo y de romanticismo entre madre y bebé; no hay lugar para temas tabúes: expresar cansancio, mostrar arrepentimiento o, incluso, llorar.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+***“Muchas veces encontramos que la maternidad no es tan rosa, tan perfecta como hemos escuchado; socialmente se ha hecho una idealización de la maternidad, sin embargo, en muchas ocasiones, la maternidad trae consigo un desencuentro con muchas cosas”***
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+Hay una vulnerabilidad psíquica muy grande en el posparto, pero la sociedad nos hemos dedicado a romantizar la maternidad. La reestructuración psíquica que implica la maternidad no ha resultado tan inofensiva para muchas mujeres: hay estudios que registran que tanto en México como en el mundo un 20 % de las mujeres, en los seis meses posteriores al parto, sufrirán de depresión posparto. 
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+Además, una de cada mil mujeres que ha parido sufre algún tipo de psicosis posparto, que es una desestructuración psíquica intensa, caracterizada por delirios y centrada en el hijo y en la filiación, si bien, en la mayoría de los casos, las psicosis posparto conocen una estabilización; esto no deja de ser una patología grave que requiere acompañamiento psiquiátrico, psicológico y para el cual se recomienda siempre conservar el vínculo de manera estrecha y vigilada con el recién nacido, según lo explicó González Castro. 
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+El 80 % de mujeres en el posparto inmediato, es decir, en los primeros cinco días del posparto, según reportan algunas cifras, sufrirán lo que se denomina “depresión del tercer día”, depresión posparto o baby blues. 
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-
-
-> Paul Rand, graphic designer
-
+Este síndrome se caracteriza por presentar cambios de humor muy abruptos, ganas de llorar o sentimientos de inquietud, insomnio y cansancio. Se cree que es específicamente hormonal, aunque sin duda las hormonas juegan un papel fundamental, también tiene que ver el duelo hacia la mujer que se era antes, el duelo hacia el embarazo; es como el momento de tomar aire y empezar un nuevo trayecto de vida.

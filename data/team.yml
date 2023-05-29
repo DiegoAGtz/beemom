@@ -1,4 +1,4 @@
-enable  : true
+enable  : false
 title   : Nuestro equipo
 members  :
   - image       : images/team/team-member-one.jpg
